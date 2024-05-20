@@ -1,0 +1,12 @@
+{
+	"Name": "Karan",
+	"Age": 24,
+	"Contact": "985664",
+	"Company": "Permify",
+	"Address": {
+		"City": "Bangalore",
+		"State": "Karnataka",
+		"Country": "India",
+		"Pincode": 1986543
+	}
+}

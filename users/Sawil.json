@@ -1,0 +1,12 @@
+{
+	"Name": "Sawil",
+	"Age": 24,
+	"Contact": "8004814729",
+	"Company": "Gartner",
+	"Address": {
+		"City": "Lucknow",
+		"State": "Uttar Pradesh",
+		"Country": "India",
+		"Pincode": 226002
+	}
+}

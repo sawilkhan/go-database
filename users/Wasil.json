@@ -1,0 +1,12 @@
+{
+	"Name": "Wasil",
+	"Age": 26,
+	"Contact": "988857",
+	"Company": "Salesforce",
+	"Address": {
+		"City": "Hyderabad",
+		"State": "Telengana",
+		"Country": "India",
+		"Pincode": 765645
+	}
+}

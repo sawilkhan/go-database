@@ -1,0 +1,12 @@
+{
+	"Name": "Yash",
+	"Age": 24,
+	"Contact": "7637467",
+	"Company": "Jahaaz",
+	"Address": {
+		"City": "Mumbai",
+		"State": "Maharashtra",
+		"Country": "India",
+		"Pincode": 656474
+	}
+}

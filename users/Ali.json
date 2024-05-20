@@ -1,0 +1,12 @@
+{
+	"Name": "Ali",
+	"Age": 22,
+	"Contact": "8768876",
+	"Company": "Google",
+	"Address": {
+		"City": "New Delhi",
+		"State": "New Delhi",
+		"Country": "India",
+		"Pincode": 110019
+	}
+}

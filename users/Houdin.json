@@ -1,0 +1,12 @@
+{
+	"Name": "Houdin",
+	"Age": 24,
+	"Contact": "0000001",
+	"Company": "Lisadia Tech",
+	"Address": {
+		"City": "New York City",
+		"State": "New York",
+		"Country": "USA",
+		"Pincode": 111111
+	}
+}
